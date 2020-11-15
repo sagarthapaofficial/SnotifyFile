@@ -1,0 +1,94 @@
+﻿  cList.cpp
+  cPerson.cpp
+  cPersonGenerator.cpp
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(140,9): warning C4018: '>': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(139): message : while compiling class template member function 'T &cSmartArrayVector<T>::operator [](int)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cPersonGenerator.cpp(39): message : see reference to function template instantiation 'T &cSmartArrayVector<T>::operator [](int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cPersonGenerator.h(44): message : see reference to class template instantiation 'cSmartArrayVector<std::string>' being compiled
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(97,2): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(92): message : while compiling class template member function 'void cSmartArrayVector<std::string>::getResize(void)'
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(29): message : see reference to function template instantiation 'void cSmartArrayVector<std::string>::getResize(void)' being compiled
+  cSnotity.cpp
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(204,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(260,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(277,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(336,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(412,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(427,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(444,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(459,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(477,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(524,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(540,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(587,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(597,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(639,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(649,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(663,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(676,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(725,21): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(737,21): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(140,9): warning C4018: '>': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(139): message : while compiling class template member function 'T &cSmartArrayVector<T>::operator [](int)'
+          with
+          [
+              T=cSong
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(114): message : see reference to function template instantiation 'T &cSmartArrayVector<T>::operator [](int)' being compiled
+          with
+          [
+              T=cSong
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(21): message : see reference to class template instantiation 'cSmartArrayVector<cSong>' being compiled
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(72,2): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(69): message : while compiling class template member function 'void cSmartArrayVector<cSong>::remove(int)'
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSnotity.cpp(191): message : see reference to function template instantiation 'void cSmartArrayVector<cSong>::remove(int)' being compiled
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(82,2): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(97,2): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(92): message : while compiling class template member function 'void cSmartArrayVector<cSong>::getResize(void)'
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(29): message : see reference to function template instantiation 'void cSmartArrayVector<cSong>::getResize(void)' being compiled
+  cSong.cpp
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSong.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cSongGenerator.cpp
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSongGenerator.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(140,9): warning C4018: '>': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(139): message : while compiling class template member function 'T &cSmartArrayVector<T>::operator [](int)'
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSongGenerator.cpp(67): message : see reference to function template instantiation 'T &cSmartArrayVector<T>::operator [](int)' being compiled
+          with
+          [
+              T=std::string
+          ]
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cMusicGenerator.h(19): message : see reference to class template instantiation 'cSmartArrayVector<std::string>' being compiled
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(97,2): warning C4018: '<': signed/unsigned mismatch
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(92): message : while compiling class template member function 'void cSmartArrayVector<std::string>::getResize(void)'
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSmartArrayVector.h(29): message : see reference to function template instantiation 'void cSmartArrayVector<std::string>::getResize(void)' being compiled
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\ST_Project1_Snotify\cSongGenerator.cpp(55): warning C4715: 'cMusicGenerator::LoadMusicInformation': not all control paths return a value
+  All 254 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ST_Project1_Snotify.vcxproj -> D:\3rd Semester (Level 3)\Data Structure and Algorithm\Project1Solution\ST_Project1_Snotify\Release\ST_Project1_Snotify.exe
