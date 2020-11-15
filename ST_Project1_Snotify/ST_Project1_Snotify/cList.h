@@ -5,6 +5,8 @@
 #include <iostream>
 template < class T, class U>
 
+// This is linked list
+
 class clinkedList
 {
 public:
