@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\3rd Semester (Level 3)\Object Oriented Analysis & Modeling\PracticConceptsc++\Mid\Source.cpp(27,3): error C2065: 'Student': undeclared identifier
+D:\3rd Semester (Level 3)\Object Oriented Analysis & Modeling\PracticConceptsc++\Mid\Source.cpp(27,11): error C2146: syntax error: missing ';' before identifier 'stu'
+D:\3rd Semester (Level 3)\Object Oriented Analysis & Modeling\PracticConceptsc++\Mid\Source.cpp(27,11): error C2065: 'stu': undeclared identifier
+D:\3rd Semester (Level 3)\Object Oriented Analysis & Modeling\PracticConceptsc++\Mid\Source.cpp(28,3): error C2065: 'stu': undeclared identifier
