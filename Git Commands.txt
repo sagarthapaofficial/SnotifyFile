@@ -1,0 +1,19 @@
+git commit -m" I changed some code"
+git push origin master ( main)
+git pull origin master ( main)
+
+// creating new local repository
+git init -b main
+git add .
+git commit - m" first commit"
+$ git remote add origin remote repository URL
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
+$ git push origin main
+
+
+// Adding file to a local repository and commiting in to remote repository
+git add 'your filename'
+git commit -,'your filename'
+git push origin master( main) 
