@@ -1,0 +1,209 @@
+
+  [
+    {
+      "BrandID": "APPLE",
+      "ProductName": "MacBook Pro 2019 (15 inch)",
+      "GraphicName": "",
+      "costPrice": "1200",
+      "MRSP": "2000",
+      "QtyonHand": "100",
+      "QtyBackOrder": "200",
+      "Description": "MacBook Pro 2019 intel i9 16 GB Ram AMD Radeon™ RX 6700 XT Graphics"
+
+
+    },
+
+    {
+      "BrandID": "APPLE",
+      "ProductName": "MacBook Air 2015 (15 inch)",
+      "GraphicName": "",
+      "costPrice": "500",
+      "MRSP": "1200",
+      "QtyonHand": "100",
+      "QtyBackOrder": "300",
+      "Description": "MacBook Air 2015 intel i7 8 GB Ram Intel HD Graphics 6000"
+
+
+    },
+
+
+    {
+      "BrandID": "APPLE",
+      "ProductName": "MacBook Pro 2018 (13 inch)",
+      "GraphicName": "",
+      "costPrice": "1100",
+      "MRSP": "1600",
+      "QtyonHand": "100",
+      "QtyBackOrder": "200",
+      "Description": "MacBook Pro 2018 intel i7 16 GB Ram "
+
+
+    },
+
+    {
+      "BrandID": "APPLE",
+      "ProductName": "MacBook Pro 2020 (16 inch)",
+      "GraphicName": "",
+      "costPrice": "1500",
+      "MRSP": "2300",
+      "QtyonHand": "50",
+      "QtyBackOrder": "100",
+      "Description": "MacBook Pro 2020 apple intel i7  8 GB Ram "
+
+
+    },
+
+
+    {
+      "BrandID": "APPLE",
+      "ProductName": "MacBook Air 2021 (13.3 inch)",
+      "GraphicName": "",
+      "costPrice": "800",
+      "MRSP": "1300",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "MacBook Air 2021 apple Apple M1 chip 256 GB SSD"
+
+
+    },
+
+
+    {
+      "BrandID": "ASUS",
+      "ProductName": "ASUS Zephyrus g15",
+      "GraphicName": "",
+      "costPrice": "1200",
+      "MRSP": "1900",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "ASUS Zephyrus g15 AMD Ryzen 9 5900HS/1TB SSD/16GB RAM/RTX 3060 "
+
+
+    },
+    {
+      "BrandID": "ASUS",
+      "ProductName": "ASUS Scar 3 III",
+      "GraphicName": "",
+      "costPrice": "1200",
+      "MRSP": "2200",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "ASUS Scar 3 III intel i7 1TB SSD/16GB RAM/RTX 2060"
+
+
+    },
+
+    {
+      "BrandID": "ASUS",
+      "ProductName": "ASUS Zenbook 14",
+      "GraphicName": "",
+      "costPrice": "500",
+      "MRSP": "900",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "ASUS ZenBook 14 Laptop Pine Grey (Intel Core i5-1135G7/512GB SSD/8GB RAM/Windows 10)"
+
+
+    },
+
+    {
+      "BrandID": "ASUS",
+      "ProductName": "ASUS Strix g15",
+      "GraphicName": "",
+      "costPrice": "500",
+      "MRSP": "900",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "ASUS ROG Strix G15 15.6 Gaming Laptop - Black (Intel Core i5-10300H/512GB SSD/8GB RAM/GTX 1650 Ti)"
+
+
+    },
+
+    {
+      "BrandID": "ASUS",
+      "ProductName": "ASUS Scar 2II",
+      "GraphicName": "",
+      "costPrice": "800",
+      "MRSP": "1200",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "ASUS ROG SCAR II 15.6 Gaming Laptop (Intel Core i7/512GB SSD/16GB RAM/RTX 2060) Open Box"
+
+
+    },
+
+
+    {
+      "BrandID": "DELL",
+      "costPrice": "1100",
+      "Description": "Intel Core i7 11th Gen - i7-1165G7 - Quad Core 4.7Ghz - 512GB SSD - 16GB RAM",
+      "GraphicName": "",
+      "MRSP": "1700",
+      "ProductName": "DELL XPS 15 2020",
+      "QtyBackOrder": "150",
+      "QtyonHand": "90"
+    },
+
+
+    {
+      "BrandID": "DELL",
+      "ProductName": "DELL XPS 13 2020",
+      "GraphicName": "",
+      "costPrice": "800",
+      "MRSP": "1300",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "Intel Core i7 11th Gen - i7-1165G7 - Quad Core 4.7Ghz - 512GB SSD - 16GB RAM"
+
+
+    },
+
+
+    {
+      "BrandID": "DELL",
+      "ProductName": "DELL G15",
+      "GraphicName": "",
+      "costPrice": "1100",
+      "MRSP": "1500",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "Intel Core i7-10750H/512GB SSD/16GB RAM/RTX 2060/Windows 10"
+
+
+    },
+
+
+    {
+      "BrandID": "DELL",
+      "ProductName": "Dell Inspiron 5000 14 Laptop",
+      "GraphicName": "",
+      "costPrice": "800",
+      "MRSP": "1100",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "Intel Core i7-1165G7/512GB SSD/16GB RAM/Windows 10"
+
+    },
+
+
+
+    {
+      "BrandID": "DELL",
+      "ProductName": "DELL G7",
+      "GraphicName": "",
+      "costPrice": "1500",
+      "MRSP": "2299",
+      "QtyonHand": "90",
+      "QtyBackOrder": "150",
+      "Description": "Intel Core i7-10750H/512GB SSD/16GB RAM/RTX 2060/Windows 10"
+
+
+    }
+
+
+  ]
+
+
+
+
+
