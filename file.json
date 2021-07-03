@@ -31,6 +31,7 @@
 
     {
       "BrandID": "APPLE",
+      "ID":"m",
       "ProductName": "MacBook Pro 2018 (13 inch)",
       "GraphicName": "",
       "costPrice": "1100",
