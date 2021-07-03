@@ -2,19 +2,21 @@
   [
     {
       "BrandID": "APPLE",
+      "ID":"a",
       "ProductName": "MacBook Pro 2019 (15 inch)",
       "GraphicName": "",
       "costPrice": "1200",
       "MRSP": "2000",
       "QtyonHand": "100",
       "QtyBackOrder": "200",
-      "Description": "MacBook Pro 2019 intel i9 16 GB Ram AMD Radeon™ RX 6700 XT Graphics"
+      "Description": "MacBook Pro 2019 intel i9 16 GB Ram AMD Radeonâ„¢ RX 6700 XT Graphics"
 
 
     },
 
     {
       "BrandID": "APPLE",
+      "ID":"b",
       "ProductName": "MacBook Air 2015 (15 inch)",
       "GraphicName": "",
       "costPrice": "500",
@@ -42,6 +44,7 @@
 
     {
       "BrandID": "APPLE",
+      "ID":"c",
       "ProductName": "MacBook Pro 2020 (16 inch)",
       "GraphicName": "",
       "costPrice": "1500",
@@ -70,6 +73,7 @@
 
     {
       "BrandID": "ASUS",
+      "ID":"d",
       "ProductName": "ASUS Zephyrus g15",
       "GraphicName": "",
       "costPrice": "1200",
@@ -82,6 +86,7 @@
     },
     {
       "BrandID": "ASUS",
+      "ID":"e",
       "ProductName": "ASUS Scar 3 III",
       "GraphicName": "",
       "costPrice": "1200",
@@ -95,6 +100,7 @@
 
     {
       "BrandID": "ASUS",
+      "ID":"f",
       "ProductName": "ASUS Zenbook 14",
       "GraphicName": "",
       "costPrice": "500",
@@ -108,6 +114,7 @@
 
     {
       "BrandID": "ASUS",
+      "ID":"g",
       "ProductName": "ASUS Strix g15",
       "GraphicName": "",
       "costPrice": "500",
@@ -121,6 +128,7 @@
 
     {
       "BrandID": "ASUS",
+      "ID":"h",
       "ProductName": "ASUS Scar 2II",
       "GraphicName": "",
       "costPrice": "800",
@@ -135,6 +143,7 @@
 
     {
       "BrandID": "DELL",
+      "ID":"h",
       "costPrice": "1100",
       "Description": "Intel Core i7 11th Gen - i7-1165G7 - Quad Core 4.7Ghz - 512GB SSD - 16GB RAM",
       "GraphicName": "",
@@ -147,6 +156,7 @@
 
     {
       "BrandID": "DELL",
+      "ID":"i",
       "ProductName": "DELL XPS 13 2020",
       "GraphicName": "",
       "costPrice": "800",
@@ -161,6 +171,7 @@
 
     {
       "BrandID": "DELL",
+      "ID":"j",
       "ProductName": "DELL G15",
       "GraphicName": "",
       "costPrice": "1100",
@@ -175,6 +186,7 @@
 
     {
       "BrandID": "DELL",
+      "ID":"k",
       "ProductName": "Dell Inspiron 5000 14 Laptop",
       "GraphicName": "",
       "costPrice": "800",
@@ -189,6 +201,7 @@
 
     {
       "BrandID": "DELL",
+      "ID":"l",
       "ProductName": "DELL G7",
       "GraphicName": "",
       "costPrice": "1500",
